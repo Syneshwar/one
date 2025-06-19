@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>Shopsy</h1>
+            <h1>Shops</h1>
         </div>
         <nav>
             <ul>
